@@ -1,0 +1,13 @@
+---
+_config: {}
+_project:
+  authors:
+    - ""
+  description: ""
+  name: All Shrines Restricted
+  url: ""
+  version: 0.1.0
+_route:
+  - (==) Welcome to celer!
+  - Hello World:
+      - My first line
