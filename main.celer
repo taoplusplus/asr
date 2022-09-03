@@ -8,6 +8,701 @@ _project:
   url: ""
   version: 0.1.0
 _route:
-  - (==) Welcome to celer!
-  - Hello World:
-      - My first line
+  - - (==) This is the current (2022-04-12) world record run by .link([orcrist_gc]https://www.speedrun.com/user/orcrist_gc). .link([Video link]https://youtu.be/8cdmXf4twv8)
+  - Plateau:
+      - SoR clip:
+          notes: Activate time of day
+
+      - Run to .loc(Boko Camp)
+      - 3 Hylian Shroom
+      - Boko Spear
+      - Pot Lid
+      - 6 Pepper
+      - 2 Hylian Shroom
+
+      - Surf to .loc(Temple of Time)
+      - Traveler's Bow
+      - 5 Normal Arrow
+
+      - BLSS
+      - _Shrine::JaBaij
+
+      - BLSS
+      - _Tower::GreatPlateau
+
+      - WB
+      - Ruby in DLC Chest
+      - _Shrine::OmanAu
+
+      - BLSS
+      - Pot Lid and Torch:
+          notes: At Old Man's Hut
+      - WB
+      - _Shrine::OwaDaim:
+          comment: Get Hammer
+
+      - Boulder Launch -> BTB
+      - _Shrine::KehNamut
+
+      - BLSS
+      - Paraglider:
+          split-type: UserDefined
+          icon: king
+          coord: [-809.33, 263.58, 1964.35]
+  - Blue South:
+    - Soldier's Bow in Chest
+    
+    - BLSS
+    - _Shrine::WahgoKatta
+
+    - WB super
+    - _Shrine::HilaRao
+    
+    - WB super
+    - 6 Radish, 7 Endura Shroom
+    - 6 Wood, 3 Apple
+    - _Shrine::KayaWan:
+        comment: Get Ancient Core
+
+    - BLSS
+    - 4 Fleet Lotus Seeds
+    - WB
+    - _Shrine::DakaTuss
+
+    - 3 WBs
+    - Talk to Paya
+    - Talk to Impa twice
+    - Pot Lid
+    - _Tod::Morning:
+        hide-icon-on-map: true
+    - Sell Ruby and Core
+    - Buy 4 Swift Carrot
+    - Buy 10 Normal, 10 Fire Arrow
+    - Get 2 Heart Containers
+
+    - WB
+    - Activate Taloh Naeg
+
+    - 3 WBs -> BTB:
+        notes: Must BTB off red boko
+    - _Shrine::SheeVenath
+
+    - Climb on top of shrine
+    - WB
+    - _Shrine::SheeVaneer
+
+    - 4 WBs
+    - Set campfire + torch
+    - Get 1 Scale, 5 Horn
+    - _Shrine::ShodaSah:
+        comment: Get 5 Ice Arrow
+
+    - WB super to .loc(Lakeside Stable)
+    - Cook Hearty, Endura, Speed
+    - 1 Razorshroom, 3 Banana
+    - _Shrine::ShaiUtoh
+
+    - 3 WBs
+    - Clip in
+    - _Shrine::QukahNata:
+        comment: Get Rubber Tights
+
+    - Clip out
+    - WB + midair
+    - 12 Fleet Lotus Seed
+    - WB to .enemy(Black Hinox)
+    - Knight's Bow
+    - Return orb
+
+    - WB to .enemy(Blue Hinox)
+    - Return orb
+
+    - WB to .enemy(Red Hinox)
+    - Spiked Boko Bat
+    - Return orb
+
+    - _Shrine::TawaJinn:
+        comment: Get Great Thunderblade
+
+    - 2 WB
+    - _Shrine::MyahmAgana
+
+    - WB
+    - Get Blue Flame
+
+    - 2 WBs
+    - .loc(Hateno Tech Lab):
+        icon: location
+        coord: [3777.71, 355.49, 2127.36]
+
+    - Talk to Purah and SNAP
+    - 2 Apple
+    - 2 WBs:
+        notes: Eat endura meal
+    - _Shrine::MuwoJeem
+
+    - WB
+    - _Shrine::ChaasQeta:
+        comment: Get Climbing Gear
+
+    - WB + midair:
+        notes: Land in shallow water
+    - Shoot arrow, drop bow
+    - Eat hearty food
+    - Complete Eventide
+    - _Shrine::KorguChideh:
+        comment: Get 300 rupees
+        notes: Backup with Diamond in Misae Suma
+
+    - WB
+    - SNAP Monument Fragment 1
+    - WB
+    - SNAP Monument Fragment 2
+    - WB
+    - SNAP Monument Fragment 3
+    - WB
+    - Talk to Garini
+    - _Shrine::KahYah
+
+    - 2 WBs
+    - _Shrine::YahRin
+
+    - WARP
+    - _Warp::Shrine::TalohNaeg:
+        line-color: yellow
+
+  - Yellow:
+    - WB
+    - 3 Fairy
+    - Activate Fairy Fountain
+    - SNAP Fountain
+
+    - Complete Quests
+    - +Flown the Coop
+    - +Find the Fairy Fountain:
+        notes: Pikango
+    - +By Firefly's Light
+
+    - Talk to Paya
+    - _Tod::Night:
+        hide-icon-on-map: true
+    - Cook speed food
+
+    - WB
+    - _Shrine::TalohNaeg
+
+    - Wait for Dorian
+    - Fight Yiga:
+        notes: Use Thunderblade
+    - _Shrine::LaknaRokee
+
+    - 2 WBs
+    - Tame mountain buck
+    - _Shrine::MezzaLo
+
+    - 2 WBs
+    - _Shrine::SohKofi
+
+    - WB super
+    - _Shrine::ShehRata
+
+    - WB super
+    - _Shrine::MirroShaz
+
+    - 2 WBs
+    - _Shrine::NamikaOzz
+
+    - +2 WBs
+    - 5 Shock Arrow in Chest
+    - SNAP Skywatcher
+    - SNAP Stalker
+
+    - +WB super
+    - Dinraal Scale in Chest
+
+    - +WB
+    - 5 Bomb Arrow in Chest
+
+    - +Enter Docks
+    - Great Flameblade
+    - _Shrine::SaasKosah
+
+    - +Enter Library
+    - +2 WBs
+    - Naydra Scale in Chest
+
+    - +2 WBs
+    - Rusty Shield
+    - _Shrine::KuhnSidajj
+
+    - A lot of WBs
+    - _Shrine::MonyaToma
+
+    - WB
+    - _Shrine::MaagNorah
+
+    - +WB -> BTB to .loc(Rito)
+    - +WB
+    - Talk to Kaneli:
+        coord: [-3627.20, 323.57, -1830.81]
+    - Talk to Saki
+    - Sell Tights and Gear
+    - Buy and equip Trousers
+
+    - +WB
+    - Falcon Bow
+    - Enter Medoh:
+        icon: medoh-enter
+        coord: [-3798.52, 267.35, -2314.14]
+        split-type: UserDefined
+    - 10 Ice Arrow in Chest
+    - Revali's Gale:
+        icon: medoh-done
+        movements:
+        - to: [-3565.625,-1817.375]
+          warp: true
+        split-type: UserDefined
+    - Great Eagle Bow
+
+    - +WB
+    - Talk to Kheel
+
+    - +2 WBs
+    - Talk to Notts:
+        notes: Singing bird above
+    - +Drop down
+    - Talk to Cree:
+        notes: In store
+    - +Run to pond
+    - Talk to Kotts
+    - +WB
+    - _Tod::Noon:
+        hide-icon-on-map: true
+    - Cook wheat, butter, salmon
+    - Talk to Genli
+    - +Drop down
+    - Get 1 heart, 4 stamina
+    - +Climb
+    - _Shrine::AkhVaquot
+
+    - WB
+    - _Shrine::BareedaNaag
+
+    - WB super
+    - 4-5-3-1-2
+    - _Shrine::VooLota
+
+    - WB super
+    - _Shrine::ShaWarvo
+
+    - WB
+    - _Shrine::MakaRah
+
+    - A lot of WBs
+    - _Shrine::MozoShenno
+
+    - A lot of WBs
+    - _Shrine::ShadaNaw
+
+    - WB super
+    - _Shrine::GomaAsaagh
+
+    - Shoot fire arrow to exit
+    - 2 WBs
+    - _Shrine::LannoKooh:
+        comment: Get 300 rupees
+
+    - WB
+    - Tree strat
+    - _Shrine::GeeHarah
+
+    - 3 WBs
+    - _Shrine::RinOyaa
+
+    - WB super -> Backflip
+    - _Shrine::RonaKachta
+
+    - WARP
+    - _Warp::Shrine::AkhVaquot:
+        line-color: red
+
+  - Red West: 
+    - 2 WBs
+    - _Shrine::KahOkeo
+
+    - A lot of WBs
+    - _Shrine::TenaKosah
+
+    - 2 WBs
+    - _Shrine::ShaeLoya
+
+    - WB to red orb
+    - WB to orange orb
+    - WB to green orb
+    - _Shrine::TohYahsa
+
+    - A lot of WBs
+    - _Shrine::DunbaTaag
+
+    - _Warp::Shrine::TenaKosah:
+        line-color: orange
+
+  - Orange West:
+    - Moblin BTB
+    - Shoot shock arrow
+    - _Shrine::KeehaYoog
+
+    - 3 WBs
+    - _Shrine::KemaKosassa:
+        notes: Should wait at fire here
+
+    - Climb -> BLSS
+    - 5 Fire Arrow in Chest
+    - Melt ice block
+    - _Shrine::KuhTakkar
+
+    - WB super
+    - Get Luminous Stone, drop
+    - _Shrine::ShoDantu
+
+    - Get Luminous Stone
+    - WB
+    - Gerudo Stash
+    - +Radiant Shield
+    - +Edge of Duality
+    - +300 Rupees in Chest
+    - +5 Bomb Arrow in Chest
+
+    - WB
+    - _Shrine::SasaKai
+
+    - 2 WBs
+    - Talk to Benja
+    - _Shrine::DaqoChisay
+
+    - WB super
+    - Buy clothes from Vilia:
+        coord: [-3259.27, 163.93, 2611.54]
+
+    - WB super
+    - _Shrine::DakoTah
+
+    - 2 WBs
+    - _Shrine::KayNoh
+
+    - 2 WBs
+    - _Shrine::KorshOhu
+
+    - WB + climb + 2 WBs
+    - Talk to Riju:
+        coord: [-3892.04, 157.48, 2968.14]
+
+    - WARP
+    - _Warp::Shrine::KuhTakkar
+
+    - WB -> clip in
+    - Duplex Bow
+    - Fight Kohga
+    - Thunder Helm:
+        icon: calamity
+        coord: [-3465.60, 440.72, 1325.95]
+        split-type: UserDefined
+
+    - WARP
+    - _Warp::Shrine::DaqoChisay
+
+    - Buy 3 Durians
+    - Sell Ruby, Topaz, Stones
+    - Buy 20 Shock Arrow
+    - Climb
+    - Talk to Riju on balcony
+    - WB
+    - Talk to Riju at outpost
+
+    - Ride seal
+    - Enter Naboris:
+        icon: naboris-enter
+        coord: [-2754.62, 112.53, 3749.44]
+        split-type: UserDefined
+
+    - .gale():
+        gale: 2
+
+    - Urbosa's Fury:
+        icon: naboris-done
+        movements:
+          - to: [-3772,2851]
+            warp: true
+        split-type: UserDefined
+        line-color: lime
+
+  - Green South:
+    - WB
+    - Sand Seal Race
+    - _Shrine::RaqaZunzo:
+        comment: Get Radiant Shield
+
+    - BLSS
+    - _Shrine::KemaZoos
+
+    - 3 WBs
+    - Light torches
+    - _Shrine::ThoKayu
+
+    - 2 WBs
+    - Get skew on shrine
+    - _Shrine::HawaKoth:
+        comment: SNAP guardian scout
+
+    - Make noon
+
+    - BLSS
+    - _Shrine::MisaeSuma
+
+    - A lot of WBs
+    - _Shrine::DilaMaag
+
+    - A lot of WBs
+    - _Shrine::SumaSahma
+
+    - WB
+    - _Shrine::IshtoSoh
+
+    - 2 WBs
+    - Talk to Loone
+    - _Shrine::ShoqaTatone
+
+    - 2 WBs
+    - _Shrine::KaoMakagh
+
+    - WB
+    - _Shrine::PumaagNitae
+
+    - 2 WBs
+    - Offer Farosh Scale
+    - _Shrine::ShaeKatha
+
+    - WARP
+    - _Warp::Shrine::ShadaNaw:
+        line-color: dodgerblue
+
+  - Blue North:
+    - 2 WBs
+    - _Shrine::HiaMiu
+
+    - WB + clip in
+    - _Shrine::ToQuomo:
+        comment: Get Claymore
+
+    - WARP
+    - _Warp::Shrine::ShadaNaw:
+        line-color: lime
+
+  - Green North:
+    - WB
+    - _Shrine::RokUwog
+
+    - 2 WBs
+    - _Shrine::ShaGehma
+
+    - 2 WBs
+    - _Shrine::QazaTokki
+
+    - 2 WBs
+    - _Shrine::KetohWawai
+
+    - WARP
+    - _Warp::Shrine::KuhnSidajj:
+        line-color: red
+
+  - Red West:
+    - WB
+    - Talk to Tasho
+    - WB
+    - _Shrine::DaagChokah
+
+    - WB
+    - _Shrine::KeoRuug
+
+    - WB
+    - Talk to Damia
+    - WB
+    - _Shrine::MaagHalan
+
+    - A lot of WBs
+    - Buy Flamebreaker Armor
+    - Talk to Bladon
+    - WB
+    - _Shrine::ShaeMosah
+
+    - WB
+    - _Shrine::ShoraHah
+
+    - Minecart + 3 WBs -> Clip in
+    - _Shrine::GoraeTorr
+
+    - 2 WBs
+    - _Shrine::ZunaKai
+
+    - 3 WBs
+    - _Shrine::TuKaloh
+
+    - _Warp::Shrine::ShaeMosah:
+        line-color: orange
+
+  - Orange East:
+    - 2 WBs
+    - _Shrine::DaqaKoh
+
+    - WB
+    - Deliver rock meat
+    - _Shrine::KayraMah
+
+    - WB
+    - _Shrine::QuaRaym
+
+    - 2 WBs
+    - _Shrine::TahMuhl
+
+    - 2 WBs
+    - _Shrine::MoaKeet
+
+    - WB
+    - _Shrine::SahDahaj
+
+    - 2 WBs
+    - _Shrine::ZeKasho
+
+    - WB -> BTB
+    - _Shrine::NeezYohma
+
+    - Get Ceremonial Trident
+    - .gale() + WB:
+        gale: 1
+    - _Shrine::DagahKeek
+
+    - 2 WBs
+    - _Shrine::RuccoMaag
+
+    - WB
+    - Blow up 3 rock piles
+    - WB
+    - Activate pedestal
+    - _Shrine::ShaiYota
+
+    - 2 WBs -> BTB + WB
+    - _Shrine::KenaiShakah
+
+    - 3 WBs
+    - _Shrine::DahHesho
+
+    - 2 WBs
+    - _Shrine::KahMael
+
+    - 2 WBs -> BLSS with orb
+    - _Shrine::RitaagZumo
+
+    - 3 WBs
+    - _Shrine::KatosaAug
+
+    - WB
+    - Offer Dinraal Scale
+    - _Shrine::TutsuwaNima
+
+    - WARP
+    - _Warp::TechLab::Hateno:
+        line-color: violet
+
+  - Violet:
+    - 2 WBs
+    - _Shrine::TahnoOah
+
+    - A lot of WBs
+    - Offer Naydra Scale
+    - _Shrine::JitanSami
+
+    - WB -> BTB
+    - _Shrine::DowNaeh
+
+    - 2 WBs
+    - Make Night
+    - _Shrine::KamUrog
+
+    - 3 WBs
+    - _Shrine::TotoSah
+
+    - WB
+    - _Shrine::HaDahamar
+
+    - 2 WBs
+    - _Shrine::ReeDahee
+
+    - 2 WBs
+    - _Shrine::BoshKala
+
+    - 3 WBs
+    - _Shrine::YaNaga
+
+    - WB -> BTB
+    - _Shrine::JeeNoh
+
+    - 3 WBs
+    - Complete Test of Will
+    - _Shrine::JolooNah
+
+    - WB
+    - _Shrine::DahKaso
+
+    - 3 WBs
+    - _Shrine::RotaOoh
+
+    - 2 WBs
+    - _Shrine::KaamYatak
+
+    - 2 WBs
+    - _Shrine::KatahChuki
+
+    - WB
+    - _Shrine::NoyaNeha
+
+    - WB
+    - _Shrine::ZaltaWa
+
+    - 3 WBs
+    - Shoot rings
+    - _Shrine::SheemDagoze
+
+    - A lot of WBs
+    - _Shrine::MoggLatan
+
+    - WB
+    - .!!(Wait):
+        notes: Orcrist completes 119 shrines well before the first Blood Moon and idles for about 15 minutes. This run is limited from being much faster because of the Blood Moon timer.
+    - Make Night
+    - Take off armor
+    - _Shrine::MijahRokee
+
+    - WARP
+    - _Warp::Shrine::KatahChuki:
+        line-color: white
+
+
+    - A lot of WBs
+    - _Korok::X14:
+        notes: lul
+        time-override: 999
+
+    - .gale():
+        gale: 1
+    - Waterblight + Fireblight:
+        icon: tots
+        hide-icon-on-map: true
+    - Calamity Ganon:
+        icon: calamity
+        hide-icon-on-map: true
+    - Dark Beast Ganon:
+        icon: ganon
+        coord: [-254.00, 191.01, -1061.37]
+
+
+
